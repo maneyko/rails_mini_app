@@ -1,0 +1,4 @@
+concurrency: 10
+queues:
+  - [global, 100]
+  - [default, 6]
